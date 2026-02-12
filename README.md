@@ -2,7 +2,7 @@
 
 # ⚡ Bracual Turbo:  Beyond the Horizon
 
-**The Future of Audio Intelligence is Instant, Native, and Limitless.**
+**The Future of Audio Intelligence is Instant, Native, and Limitless.** 
 
 [![Groq Powered](https://img.shields.io/badge/Powered%20By-Groq-orange?style=for-the-badge&logo=groq)](https://groq.com)
 [![Whisper V3](https://img.shields.io/badge/Model-Whisper%20Large%20V3%20Turbo-blueviolet?style=for-the-badge)](https://openai.com/research/whisper)
