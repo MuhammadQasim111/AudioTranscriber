@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Bracual",
+  "description": "A high-performance audio transcription tool. Features speaker diarization, timestamping, and export functionality.",
+  "requestFramePermissions": []
+}
